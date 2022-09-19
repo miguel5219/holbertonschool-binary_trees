@@ -4,7 +4,7 @@
   * binary_tree_is_full - funaction that checks if a binary
   * tree is full
   *
-  * @tree: is a pointer to the root node of the tree 
+  * @tree: is a pointer to the root node of the tree
   * to check
   *
   * Return: if tree is NULL return 0
